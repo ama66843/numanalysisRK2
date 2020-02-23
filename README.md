@@ -5,3 +5,4 @@ My group members and I used Euler's method and a 2-step Runge Kutta scheme in
 order to estimate the decay rate of an environmental pollutant as it travels 
 through a volume of groundwater. 
 
+Common external python packages such as matplotlib and numpy were used. 
